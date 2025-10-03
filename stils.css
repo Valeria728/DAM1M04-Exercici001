@@ -1,0 +1,47 @@
+p {
+    color: green;
+}
+
+#titol {
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+.text-important{
+    color: red;
+    color: black;
+}
+
+.vermell {
+    color: green;
+}
+
+.gran {
+    font-size: 24px;
+}
+
+.negreta {
+    color: black;
+}
+
+.subratllat {
+    text-decoration: underline;
+}
+
+a:hover {
+    color: rgb(5, 237, 229);
+    border-bottom-style: pointer;
+
+}
+
+p::before {
+    content: "╰┈➤ ";
+    color: blue;
+    
+}
+
+p::after {
+    content: " ♡";
+    color: green;
+    
+}
