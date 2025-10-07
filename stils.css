@@ -9,7 +9,7 @@ p {
 
 .text-important{
     color: red;
-    color: black;
+    font-weight: bold;
 }
 
 .vermell {
